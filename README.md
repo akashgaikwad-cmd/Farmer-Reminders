@@ -3,17 +3,17 @@ This project is a web application designed to help farmers manage their crop-rel
 
 ### OUTPUTS
 <p align="center">
-<img src="https://github.com/akashgaikwad-cmd/Farmer-Reminders/blob/main/outputs/Screenshot%202025-01-18%20200931.png" alt="Image description" width="300" height="500">
+<img src="https://github.com/akashgaikwad-cmd/Farmer-Reminders/blob/main/outputs/Screenshot%202025-01-18%20200931.png" alt="Image description" width="700" height="700">
 </p>
 <p align="center">
-<img src="https://github.com/akashgaikwad-cmd/Farmer-Reminders/blob/main/outputs/Screenshot%202025-01-18%20201002.png" alt="Image description" width="300" height="500">
+<img src="https://github.com/akashgaikwad-cmd/Farmer-Reminders/blob/main/outputs/Screenshot%202025-01-18%20201002.png" alt="Image description" width="700" height="700">
 </p>
 <p align="center">
-<img src="https://github.com/akashgaikwad-cmd/Farmer-Reminders/blob/main/outputs/Screenshot%202025-01-18%20201040.png" alt="Image description" width="300" height="500">
+<img src="https://github.com/akashgaikwad-cmd/Farmer-Reminders/blob/main/outputs/Screenshot%202025-01-18%20201040.png" alt="Image description" width="700" height="700">
 </p>
 <p align="center">
-<img src="https://github.com/akashgaikwad-cmd/Farmer-Reminders/blob/main/outputs/Screenshot%202025-01-18%20201116.png" alt="Image description" width="300" height="500">
+<img src="https://github.com/akashgaikwad-cmd/Farmer-Reminders/blob/main/outputs/Screenshot%202025-01-18%20201116.png" alt="Image description" width="700" height="700">
 </p>
 <p align="center">
-<img src="https://github.com/akashgaikwad-cmd/Farmer-Reminders/blob/main/outputs/Screenshot%202025-01-18%20201144.png" alt="Image description" width="300" height="500">
+<img src="https://github.com/akashgaikwad-cmd/Farmer-Reminders/blob/main/outputs/Screenshot%202025-01-18%20201144.png" alt="Image description" width="700" height="700">
 </p>
